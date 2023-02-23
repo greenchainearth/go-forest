@@ -1,0 +1,24 @@
+package launcher
+
+import (
+	"github.com/ethereum/go-ethereum/params"
+)
+
+var (
+	Bootnodes = []string{
+		"enode://9164d8029f8a23471b8df545f76a6bdafffdb676ae270e327fd539fa7e9374445b393a7c380873ca28f02e04f65ec61eb5ccc7a739f927d6eb78b9f0bfa6969a@84.46.244.208:5050",
+		"enode://bdd847d758543bc0be5c36af05c78b7b79be0644849d6196e1d44a07237ec0175f0f17c9dd2a333fecf3289037dffc0bb30f3b2a31818bb4b7f38d5a466ef53a@84.46.244.209:5050",
+		"enode://165fc3f97fb09cbca2f51d50fc031d8c277b4153b1b699b68ad828c5e43c23de18d6a8edf556c6300ae0afaec549630a71fe4f8ba41b8de259dd5b257a0047f2@84.46.244.210:5050",
+		"enode://c65ea65059ba2f960a17ec7ff195387178e4116fe2298d9b4eb263490eef1a564bc5675ab69898c85cb90fe9dbe2614ddc81091cb64aaf13ca1cfbea6ebc4050@84.46.244.212:5050",
+		"enode://a4bc77cfced8438e77b0775b66390cf172151da08047f5a8ba639405dad7d12fd2193ae3b311cea4e1e90e86324d6b78324ad84aeae2b4347196a14921bd391b@84.46.244.213:5050",
+		"enode://b14fc0b0084c67594328f8e0bf2587af7a8a8926870ccf04feaf90f9f123676476813fcec06df1eeddd6474b81ff28c3d44fd5f9fe93c8b08e931f487c527a1a@84.46.244.214:5050",
+		"enode://8a86aaa0b2dd8132f18d6d6ab010c3d1814eebbee633a101ad10222040137335bba965d99d4fc7789a965d743babce14ec613905e7e26af7f89cec3d053aa74a@62.171.179.134:5050",
+	}
+)
+
+func overrideParams() {
+	params.MainnetBootnodes = []string{}
+	params.RopstenBootnodes = []string{}
+	params.RinkebyBootnodes = []string{}
+	params.GoerliBootnodes = []string{}
+}
