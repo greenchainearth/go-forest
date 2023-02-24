@@ -3,7 +3,6 @@ module github.com/greenchainearth/go-forest
 go 1.14
 
 require (
-	github.com/greenchainearth/seed-base v0.0.0-20220125131912-8d06ca49f909
 	github.com/allegro/bigcache v1.2.1 // indirect
 	github.com/certifi/gocertifi v0.0.0-20191021191039-0944d244cd40 // indirect
 	github.com/cespare/cp v1.1.1
@@ -19,6 +18,7 @@ require (
 	github.com/gballet/go-libpcsclite v0.0.0-20191108122812-4678299bea08 // indirect
 	github.com/getsentry/raven-go v0.2.0 // indirect
 	github.com/golang/mock v1.3.1
+	github.com/greenchainearth/seed-base v1.0.1
 	github.com/hashicorp/golang-lru v0.5.5-0.20210104140557-80c98217689d
 	github.com/holiman/bloomfilter/v2 v2.0.3
 	github.com/julienschmidt/httprouter v1.3.0 // indirect
@@ -44,6 +44,6 @@ require (
 	gopkg.in/urfave/cli.v1 v1.20.0
 )
 
-replace github.com/ethereum/go-ethereum => github.com/greenchainearth/go-ethereum v0.2.0
+replace github.com/ethereum/go-ethereum => github.com/greenchainearth/go-ethereum v0.1.1
 
 replace github.com/dvyukov/go-fuzz => github.com/guzenok/go-fuzz v0.0.0-20210103140116-f9104dfb626f

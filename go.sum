@@ -37,10 +37,6 @@ github.com/DATA-DOG/go-sqlmock v1.3.3/go.mod h1:f/Ixk793poVmq4qj/V1dPUg2JEAKC73Q
 github.com/OneOfOne/xxhash v1.2.2/go.mod h1:HSdplMjZKSmBqAxg5vPj2TmRDmfkzw+cTzAElWljhcU=
 github.com/StackExchange/wmi v0.0.0-20180116203802-5d049714c4a6 h1:fLjPD/aNc3UIOA6tDi6QXUemppXK3P9BI7mr2hd6gx8=
 github.com/StackExchange/wmi v0.0.0-20180116203802-5d049714c4a6/go.mod h1:3eOhrUMpNV+6aFIbp5/iudMxNCF27Vw2OZgy4xEx0Fg=
-github.com/greenchainearth/go-ethereum v0.2.0 h1:lDBLn9E1XA/TYI7kx/HPHHcvmmk8zfyEbLgP7MMVH8w=
-github.com/greenchainearth/go-ethereum v0.2.0/go.mod h1:AItrK6rpGqvJuNAK06OPjCgxS71WP1EmWbn/t9zAM/M=
-github.com/greenchainearth/seed-base v0.0.0-20220125131912-8d06ca49f909 h1:qrv+wI1ydCwmS3swM7Ah0ILpeefWF5qd7hu5FNogcAo=
-github.com/greenchainearth/seed-base v0.0.0-20220125131912-8d06ca49f909/go.mod h1:TL7SF2j92VUE20W2vOzvvrOrYXyT/D42nF9doDh8+tE=
 github.com/VictoriaMetrics/fastcache v1.5.7 h1:4y6y0G8PRzszQUYIQHHssv/jgPHAb5qQuuDNdCbyAgw=
 github.com/VictoriaMetrics/fastcache v1.5.7/go.mod h1:ptDBkNMQI4RtmVo8VS/XwRY6RoTu1dAWCbrk+6WsEM8=
 github.com/aead/siphash v1.0.1/go.mod h1:Nywa3cDsYNNK3gaciGTWPwHt0wlpNV15vwmswBAUSII=
@@ -212,6 +208,10 @@ github.com/gorilla/websocket v1.4.2 h1:+/TMaTYc4QFitKJxsQ7Yye35DkWvkdLcvGKqM+x0U
 github.com/gorilla/websocket v1.4.2/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
 github.com/graph-gophers/graphql-go v0.0.0-20201113091052-beb923fada29 h1:sezaKhEfPFg8W0Enm61B9Gs911H8iesGY5R8NDPtd1M=
 github.com/graph-gophers/graphql-go v0.0.0-20201113091052-beb923fada29/go.mod h1:9CQHMSxwO4MprSdzoIEobiHpoLtHm77vfxsvsIN5Vuc=
+github.com/greenchainearth/go-ethereum v0.1.1 h1:Enc4aI2tyV7rgTkTbAE900u7XiHw5YjpeMKeoe+PgdQ=
+github.com/greenchainearth/go-ethereum v0.1.1/go.mod h1:AItrK6rpGqvJuNAK06OPjCgxS71WP1EmWbn/t9zAM/M=
+github.com/greenchainearth/seed-base v1.0.1 h1:dtUoOAE+VV83YGddz7gWeXj/dVcOX7Y9l29feWz+/1Y=
+github.com/greenchainearth/seed-base v1.0.1/go.mod h1:oeLxwpZLAWo8etQt8ItPOVkkgiuWP0fKKZkJNYFL1+c=
 github.com/guzenok/go-fuzz v0.0.0-20210103140116-f9104dfb626f h1:GQpcb9ywkaawJfZCFeIcrSWlsZFRTsig42e03dkzc+I=
 github.com/guzenok/go-fuzz v0.0.0-20210103140116-f9104dfb626f/go.mod h1:Q5On640X2Z0YzKOijx9GVhUu/kvHnk9aKoWGMlRDMtc=
 github.com/hashicorp/golang-lru v0.5.0/go.mod h1:/m3WP610KZHVQ1SGc6re/UDhFvYD7pJ4Ao+sR/qLZy8=
