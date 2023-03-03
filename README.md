@@ -22,6 +22,7 @@ on how you can run your own `forest` instance.
 ### Launching a network
 
 Launching `forest` for a network:
+Download the mainnet genesis file from [Download](https://greenchain.earth/mainnet.g)
 
 ```shell
 $ forest --genesis /path/to/genesis.g
