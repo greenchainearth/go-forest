@@ -208,8 +208,8 @@ github.com/gorilla/websocket v1.4.2 h1:+/TMaTYc4QFitKJxsQ7Yye35DkWvkdLcvGKqM+x0U
 github.com/gorilla/websocket v1.4.2/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
 github.com/graph-gophers/graphql-go v0.0.0-20201113091052-beb923fada29 h1:sezaKhEfPFg8W0Enm61B9Gs911H8iesGY5R8NDPtd1M=
 github.com/graph-gophers/graphql-go v0.0.0-20201113091052-beb923fada29/go.mod h1:9CQHMSxwO4MprSdzoIEobiHpoLtHm77vfxsvsIN5Vuc=
-github.com/greenchainearth/go-ethereum v0.1.1 h1:Enc4aI2tyV7rgTkTbAE900u7XiHw5YjpeMKeoe+PgdQ=
-github.com/greenchainearth/go-ethereum v0.1.1/go.mod h1:AItrK6rpGqvJuNAK06OPjCgxS71WP1EmWbn/t9zAM/M=
+github.com/greenchainearth/go-ethereum v0.1.2 h1:u4FAX5mQbLc3QXOEOrrjfqqQX57EfTTIEA+n5qpyP2w=
+github.com/greenchainearth/go-ethereum v0.1.2/go.mod h1:AItrK6rpGqvJuNAK06OPjCgxS71WP1EmWbn/t9zAM/M=
 github.com/greenchainearth/seed-base v1.0.1 h1:dtUoOAE+VV83YGddz7gWeXj/dVcOX7Y9l29feWz+/1Y=
 github.com/greenchainearth/seed-base v1.0.1/go.mod h1:oeLxwpZLAWo8etQt8ItPOVkkgiuWP0fKKZkJNYFL1+c=
 github.com/guzenok/go-fuzz v0.0.0-20210103140116-f9104dfb626f h1:GQpcb9ywkaawJfZCFeIcrSWlsZFRTsig42e03dkzc+I=
